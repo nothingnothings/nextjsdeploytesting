@@ -44,7 +44,7 @@ const ContactPage = (props) => {
         console.log(data);
         router.push('/');
         notificationContext.showNotification({
-          title: 'Success!',
+          title: 'Success!!!', 
           message: 'Message successfully uploaded.',
           status: 'success',
         });

@@ -12,6 +12,8 @@ This is some regular text with a [link](https://google.com)
 
 NextJS is a **framework for ReactJS**.
 
+Maybe use WriteMonkey...?
+
 Wait a second ... a "framework" for React? Isn't React itself already a framework for JavaScript?
 
 Well ... first of all, React is a "library" for JavaScript. That seems to be important for some people.

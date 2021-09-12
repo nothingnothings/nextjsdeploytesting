@@ -50,10 +50,6 @@ module.exports = (phase) => {
 else {
 
 
-
-
-
-
   return {
     env: {
       ////EXEMPLO DE ENVIRONMENT VARIABLES
@@ -69,39 +65,6 @@ else {
 
 
 };
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
