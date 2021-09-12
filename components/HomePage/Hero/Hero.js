@@ -15,7 +15,7 @@ const Hero = () => {
           width={300}
         />
       </div>
-      <h1>Hi, I'm Arthur</h1>
+      <h1>Hi, I'm Arthur.</h1>
       <p>This is my blog about web development.</p>
     </section>
   );
